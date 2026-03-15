@@ -1,0 +1,14 @@
+[
+  {
+    "name": "windpark_fixed",
+    "p": 100
+  },
+  {
+    "name": "gas_fired_rigid",
+    "p": 0
+  },
+  {
+    "name": "tj_flexible",
+    "p": 10
+  }
+]
